@@ -1,7 +1,7 @@
 # SDL.pas
 Simple DirectMedia Layer + Extensions for Pascal
 
-**SDL.pas** is Pascal bindings that allows you to use <a href="https://libsdl.org" target="_blank">SDL</a> and its extensions with Pascal compilers (tested with <a href="https://www.embarcadero.com/es/products/delphi" target="_blank">Delphi</a>).
+**SDL.pas** is Pascal bindings that allow you to use <a href="https://libsdl.org" target="_blank">SDL</a> and its extensions with Pascal compilers (tested with <a href="https://www.embarcadero.com/es/products/delphi" target="_blank">Delphi</a>).
 
 Included:
 - SDL2
